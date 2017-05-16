@@ -1,0 +1,13 @@
+#parent-block {
+	border: 50px solid #f00;
+    border-radius: 100px;
+    height:100px;
+    width:100px;
+}
+#parent-block div {
+	display: inline-block;
+	width: 45%;
+	height: 45%;
+	border: 2px solid white;
+	background-color: red;
+}
