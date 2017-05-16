@@ -1,2 +1,2 @@
-# simon
-A simple Simon game 
+# Simon
+A simple Simon game
